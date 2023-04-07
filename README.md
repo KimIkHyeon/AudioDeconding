@@ -1,5 +1,4 @@
 # AudioDeconding
 
-branch
 	amrDecoder
 	SpeexDecoder
