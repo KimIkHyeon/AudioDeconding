@@ -1,5 +1,5 @@
 # AudioDeconding
 
 branch
-	amr decoder
-	speex decoder
+	amrDecoder
+	SpeexDecoder
